@@ -8,6 +8,9 @@ void main() => runApp(BMICalculator());
 class BMICalculator extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    print('saba7 elfol');
+    print('saba7 elfol');
+    print('saba7 elfol');
     return MaterialApp(
       // routes: {
       //   'home': (context) => InputPage(),
